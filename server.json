@@ -15,6 +15,10 @@
                 {
                     "locale": "en",
                     "name": "Active"
+                },
+                {
+                    "locale": "ar",
+                    "name":"Ar ban"
                 }
             ]
         },
@@ -96,6 +100,13 @@
             "id": 1,
             "name": "English",
             "code": "en",
+            "is_default": false,
+            "is_active": true
+        },
+        {
+            "id": 1,
+            "name": "Arabic",
+            "code": "ar",
             "is_default": false,
             "is_active": true
         },
