@@ -1,0 +1,117 @@
+{
+    "statuses": [
+        {
+            "id": 1,
+            "name": "Активен",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "name": "Faol"
+                },
+                {
+                    "locale": "ru",
+                    "name": "Активен"
+                },
+                {
+                    "locale": "en",
+                    "name": "Active"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Запрещено",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "name": "Ban qilingan"
+                },
+                {
+                    "locale": "ru",
+                    "name": "Запрещено"
+                },
+                {
+                    "locale": "en",
+                    "name": "Banned"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "В ожидании",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "name": "Kutilmoqda"
+                },
+                {
+                    "locale": "ru",
+                    "name": "В ожидании"
+                },
+                {
+                    "locale": "en",
+                    "name": "Pending"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Призвание",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "name": "Kasb"
+                },
+                {
+                    "locale": "ru",
+                    "name": "Призвание"
+                },
+                {
+                    "locale": "en",
+                    "name": "Vocation"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Одобренный",
+            "translations": [
+                {
+                    "locale": "uz",
+                    "name": "Tasdiqlangan"
+                },
+                {
+                    "locale": "ru",
+                    "name": "Одобренный"
+                },
+                {
+                    "locale": "en",
+                    "name": "Approved"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "id": 1,
+            "name": "English",
+            "code": "en",
+            "is_default": false,
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "name": "Russian",
+            "code": "ru",
+            "is_default": false,
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "name": "Uzbek",
+            "code": "uz",
+            "is_default": true,
+            "is_active": true        
+        }
+    ]
+}
